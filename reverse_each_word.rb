@@ -12,5 +12,3 @@ def reverse_each_word(sentence)
   back.collect {|word|
   word.reverse}.join(" ") 
 end
-end
-end
